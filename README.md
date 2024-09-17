@@ -31,5 +31,6 @@ I am currently working on several enhancements for this program. Future updates 
 
 ### Current State:
 The program currently runs in the terminal, displaying typing speed and accuracy results after the user completes the test.
+![Alt text](preview.png "current state")
 
 Thank you for checking out this project! Feel free to contribute or provide feedback.
